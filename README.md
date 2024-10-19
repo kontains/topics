@@ -35,10 +35,10 @@
 </a> &nbsp; [Awesome Lists](https://github.com/topics/awesome) - An awesome list is a list of awesome things curated by the community.
 
 <a href="https://github.com/topics/aws"><kbd><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/aws/aws.png" width="56" height="56" alt="aws">
-</a> &nbsp; [Amazon Web Services] - Amazon Web Services provides on-demand cloud computing platforms on a subscription basis.
+</a> &nbsp; [Amazon Web Services](https://github.com/topics/aws) - Amazon Web Services provides on-demand cloud computing platforms on a subscription basis.
 
 <a href="https://github.com/topics/azure"><kbd><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/azure/azure.png" width="56" height="56" alt="azure">
-</a> &nbsp; [Azure] - Azure is a cloud computing service created by Microsoft.
+</a> &nbsp; [Azure](https://github.com/topics/azure) - Azure is a cloud computing service created by Microsoft.
 
 ------ to do -----
 
