@@ -1,5 +1,14 @@
+<p align="center">Updated - 2024, 19th October.</p>
 
-<h4 class="h4">Featured topics</h4>
+<hr>
+
+<h4 class="h4">AI related</h4>
+
+### (pending)
+
+<hr>
+
+<h4 class="h4">Game related</h4>
 
 <a href="https://github.com/topics/3d"><kbd width="64" height="64" alt="3D"> <br><br>&nbsp;&nbsp;&nbsp; # &nbsp;&nbsp;&nbsp;<br><br> </kbd>
 </a> &nbsp; [3D](https://github.com/topics/3d) - 3D refers to the use of three-dimensional graphics, modeling, and animation in various industries.
@@ -7,11 +16,18 @@
 <a href="https://github.com/topics/game-engine"><kbd width="64" height="64" alt="game-engine"> <br><br>&nbsp;&nbsp;&nbsp; # &nbsp;&nbsp;&nbsp;<br><br> </kbd>
 </a> &nbsp; [Game engine](https://github.com/topics/game-engine)- A game engine is a software framework used to develop and create video games.
 
+<a href="https://github.com/topics/phaser"><kbd><img src="https://raw.githubusercontent.com/github/explore/b7c8510756ee50efb38d1f01896e72b7a9737296/topics/phaser/phaser.png" class="rounded mr-3" width="56" height="56" alt="phaser">
+</a> &nbsp; [Phaser](https://github.com/topics/phaser) - Phaser is a fun, free, and fast 2D game framework for making HTML5 games for desktop and mobile web browsers.
+
 <a href="https://github.com/topics/unity"><kbd><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/unity/unity.png" class="rounded mr-3" width="56" height="56" alt="unity">
  </a> &nbsp; [Unity](https://github.com/topics/unity) - Unity is a game engine used to create 2D/3D video games, and simulations for computers, consoles, and mobile devices.
 
 <a href="https://github.com/topics/unreal-engine"><kbd><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/unreal-engine/unreal-engine.png" class="rounded mr-3" width="56" height="56" alt="unreal-engine">
  </a> &nbsp; [Unreal Engine](https://github.com/topics/unreal-engine) - Unreal Engine is used to create awesome games, and experiences for PC, mobile, console, VR, and AR.
+
+<hr>
+
+<h4 class="h4">Other topics</h4>
 
 <a href="https://github.com/topics/ajax"><kbd><img src="https://raw.githubusercontent.com/github/explore/8be26d91eb231fec0b8856359979ac09f27173fd/topics/ajax/ajax.png" width="56" height="56" alt="ajax">
 </a> &nbsp; [Ajax](https://github.com/topics/ajax) - Ajax is a technique for creating interactive web applications.
@@ -349,9 +365,6 @@
 <a href="https://github.com/topics/perl"><kbd><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/perl/perl.png" class="rounded mr-3" width="56" height="56" alt="perl">
 </a> &nbsp; [Perl](https://github.com/topics/perl) - Perl is a highly capable and feature-rich programming language.
 
-<a href="https://github.com/topics/phaser"><kbd><img src="https://raw.githubusercontent.com/github/explore/b7c8510756ee50efb38d1f01896e72b7a9737296/topics/phaser/phaser.png" class="rounded mr-3" width="56" height="56" alt="phaser">
-</a> &nbsp; [Phaser](https://github.com/topics/phaser) - Phaser is a fun, free, and fast 2D game framework for making HTML5 games for desktop and mobile web browsers.
-
 <a href="https://github.com/topics/php"><kbd><img src="https://raw.githubusercontent.com/github/explore/ccc16358ac4530c6a69b1b80c7223cd2744dea83/topics/php/php.png" class="rounded mr-3" width="56" height="56" alt="php">
 </a> &nbsp; [PHP](https://github.com/topics/php) - PHP is a popular general-purpose scripting language that works particularly well for server-side web development.
 
@@ -397,9 +410,7 @@
 <a href="https://github.com/topics/redux"><kbd><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/redux/redux.png" class="rounded mr-3" width="56" height="56" alt="redux">
 </a> &nbsp; [Redux](https://github.com/topics/redux) - Redux is a predictable state container for JavaScript apps.
 
-<a href="https://github.com/topics/rest-api"><kbd><div style="width:64px; height:64px; line-height:64px;">
-  #
-</div>
+<a href="https://github.com/topics/rest-api"><kbd width="64" height="64" alt="rest-api"> <br><br>&nbsp;&nbsp;&nbsp; # &nbsp;&nbsp;&nbsp;<br><br> </kbd>
 </a> &nbsp; [REST API](https://github.com/topics/rest-api) - A representational state transfer (REST) API is a way to provide compatibility between computer systems on the internet.
 
 <a href="https://github.com/topics/ruby"><kbd><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/ruby/ruby.png" class="rounded mr-3" width="56" height="56" alt="ruby">
@@ -412,57 +423,48 @@
 </a> &nbsp; [Sass](https://github.com/topics/sass) - Sass is a stable extension to classic CSS.
 
 <a href="https://github.com/topics/scala"><kbd><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/scala/scala.png" class="rounded mr-3" width="56" height="56" alt="scala">
- </a> &nbsp; [Scala](https://github.com/topics/scala) - Scala is an object-oriented programming language.
+</a> &nbsp; [Scala](https://github.com/topics/scala) - Scala is an object-oriented programming language.
 
 <a href="https://github.com/topics/scikit-learn"><kbd><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/scikit-learn/scikit-learn.png" class="rounded mr-3" width="56" height="56" alt="scikit-learn">
- </a> &nbsp; [scikit-learn](https://github.com/topics/scikit-learn) - scikit-learn is a Python module for machine learning.
+</a> &nbsp; [scikit-learn](https://github.com/topics/scikit-learn) - scikit-learn is a Python module for machine learning.
 
-<a href="https://github.com/topics/sdn"><kbd><div style="width:64px; height:64px; line-height:64px;">
-#
-  </div>
- </a> &nbsp; [Software-defined networking](https://github.com/topics/sdn)  - Software-defined networking (SDN) is an architecture for programmable, centrally managed networks.
-<a href="https://github.com/topics/security"><kbd><div style="width:64px; height:64px; line-height:64px;">
-#
-  </div>
- </a> &nbsp; [Security](https://github.com/topics/security) - Cybersecurity is the protection of computer hardware, software, and data from theft, damage, and malicious intent.
-<a href="https://github.com/topics/server"><kbd><div style="width:64px; height:64px; line-height:64px;">
-#
-  </div>
- </a> &nbsp; [Server](https://github.com/topics/server) - A server is a program made to process requests and deliver data to clients.
-<a href="https://github.com/topics/serverless"><kbd> <div style="width:64px; height:64px; line-height:64px;">
-#
-  </div>
- </a> &nbsp; [Serverless](https://github.com/topics/serverless) - Serverless architecture refers to apps that depend on third-party services or custom code.
+<a href="https://github.com/topics/sdn"><kbd width="64" height="64" alt="sdn"> <br><br>&nbsp;&nbsp;&nbsp; # &nbsp;&nbsp;&nbsp;<br><br> </kbd>
+</a> &nbsp; [Software-defined networking](https://github.com/topics/sdn) - Software-defined networking (SDN) is an architecture for programmable, centrally managed networks.
+ 
+<a href="https://github.com/topics/security"><kbd width="64" height="64" alt="security"> <br><br>&nbsp;&nbsp;&nbsp; # &nbsp;&nbsp;&nbsp;<br><br> </kbd>
+</a> &nbsp; [Security](https://github.com/topics/security) - Cybersecurity is the protection of computer hardware, software, and data from theft, damage, and malicious intent.
+ 
+<a href="https://github.com/topics/server"><kbd width="64" height="64" alt="server"> <br><br>&nbsp;&nbsp;&nbsp; # &nbsp;&nbsp;&nbsp;<br><br> </kbd>
+</a> &nbsp; [Server](https://github.com/topics/server) - A server is a program made to process requests and deliver data to clients.
+ 
+<a href="https://github.com/topics/serverless"><kbd width="64" height="64" alt="serverless"> <br><br>&nbsp;&nbsp;&nbsp; # &nbsp;&nbsp;&nbsp;<br><br> </kbd>
+</a> &nbsp; [Serverless](https://github.com/topics/serverless) - Serverless architecture refers to apps that depend on third-party services or custom code.
 
-  <a href="https://github.com/topics/shell"><kbd> <div style="width:64px; height:64px; line-height:64px;">
-#
-  </div>
+ <a href="https://github.com/topics/shell"><kbd width="64" height="64" alt="shell"> <br><br>&nbsp;&nbsp;&nbsp; # &nbsp;&nbsp;&nbsp;<br><br> </kbd>
  </a> &nbsp; [Shell](https://github.com/topics/shell) - A shell is a command-line tool, designed to be run by the Unix shell.
 
-  <a href="https://github.com/topics/sketch"><kbd><img src="https://raw.githubusercontent.com/github/explore/a5995564b5ff71c41da080abc49f1ba4132127c1/topics/sketch/sketch.png" class="rounded mr-3" width="56" height="56" alt="sketch">
+ <a href="https://github.com/topics/sketch"><kbd><img src="https://raw.githubusercontent.com/github/explore/a5995564b5ff71c41da080abc49f1ba4132127c1/topics/sketch/sketch.png" class="rounded mr-3" width="56" height="56" alt="sketch">
  </a> &nbsp; [Sketch](https://github.com/topics/sketch) - Sketch is a vector graphics editor for Apple's macOS, used primarily for user interface and icon design.
 
-  <a href="https://github.com/topics/spacevim"><kbd><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/spacevim/spacevim.png" class="rounded mr-3" width="56" height="56" alt="spacevim">
- </a> &nbsp; [SpaceVim](https://github.com/topics/spacevim) [SpaceVim] - SpaceVim is a community-driven distribution of the vim editor that allows managing your plugins in layers.
+ <a href="https://github.com/topics/spacevim"><kbd><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/spacevim/spacevim.png" class="rounded mr-3" width="56" height="56" alt="spacevim">
+ </a> &nbsp; [SpaceVim](https://github.com/topics/spacevim) - SpaceVim is a community-driven distribution of the vim editor that allows managing your plugins in layers.
 
-  <a href="https://github.com/topics/spring-boot"><kbd><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/spring-boot/spring-boot.png" class="rounded mr-3" width="56" height="56" alt="spring-boot">
+ <a href="https://github.com/topics/spring-boot"><kbd><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/spring-boot/spring-boot.png" class="rounded mr-3" width="56" height="56" alt="spring-boot">
  </a> &nbsp; [Spring Boot](https://github.com/topics/spring-boot) - Spring Boot is a coding and configuration model for Java applications.
 
-  <a href="https://github.com/topics/sql"><kbd><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" class="rounded mr-3" width="56" height="56" alt="sql">
+ <a href="https://github.com/topics/sql"><kbd><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" class="rounded mr-3" width="56" height="56" alt="sql">
  </a> &nbsp; [SQL](https://github.com/topics/sql) - SQL is a standard language for storing, retrieving and manipulating data in databases.
 
-  <a href="https://github.com/topics/storybook"><kbd><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/storybook/storybook.png" class="rounded mr-3" width="56" height="56" alt="storybook">
+ <a href="https://github.com/topics/storybook"><kbd><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/storybook/storybook.png" class="rounded mr-3" width="56" height="56" alt="storybook">
  </a> &nbsp; [Storybook](https://github.com/topics/storybook) - Storybook is a UI development environment for your UI components.
 
-  <a href="https://github.com/topics/support"><kbd> <div style="width:64px; height:64px; line-height:64px;">
-#
-  </div>
+ <a href="https://github.com/topics/support"><kbd width="64" height="64" alt="support"> <br><br>&nbsp;&nbsp;&nbsp; # &nbsp;&nbsp;&nbsp;<br><br> </kbd>
  </a> &nbsp; [Support](https://github.com/topics/support) - Get your team and customers the help they need.
 
-  <a href="https://github.com/topics/swift"><kbd><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/swift/swift.png" class="rounded mr-3" width="56" height="56" alt="swift">
+ <a href="https://github.com/topics/swift"><kbd><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/swift/swift.png" class="rounded mr-3" width="56" height="56" alt="swift">
  </a> &nbsp; [Swift](https://github.com/topics/swift) - Swift is a modern programming language focused on safety, performance, and expressivity.
 
-  <a href="https://github.com/topics/symfony"><kbd><img src="https://raw.githubusercontent.com/github/explore/d0c5a5e31e1776ad62379ef5f6b703bcf107d3a3/topics/symfony/symfony.png" class="rounded mr-3" width="56" height="56" alt="symfony">
+ <a href="https://github.com/topics/symfony"><kbd><img src="https://raw.githubusercontent.com/github/explore/d0c5a5e31e1776ad62379ef5f6b703bcf107d3a3/topics/symfony/symfony.png" class="rounded mr-3" width="56" height="56" alt="symfony">
  </a> &nbsp; [Symfony](https://github.com/topics/symfony) - Symfony is a set of reusable PHP components and a web framework.
 
 <a href="https://github.com/topics/telegram"><kbd><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/telegram/telegram.png" class="rounded mr-3" width="56" height="56" alt="telegram">
@@ -477,17 +479,14 @@
 <a href="https://github.com/topics/terraform"><kbd><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terraform/terraform.png" class="rounded mr-3" width="56" height="56" alt="terraform">
 </a> &nbsp; [Terraform](https://github.com/topics/terraform) - Terraform is an open-source infrastructure as code software tool created by HashiCorp.
 
-<a href="https://github.com/topics/testing"><kbd><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/testing/testing.png" class="rounded mr-3" width="56" height="56" alt="testing">
-</a> &nbsp; [Testing](https://github.com/topics/testing) - Testing is the process of verifying and validating that a system or component meets its requirements.
-
 <a href="https://github.com/topics/twitter"><kbd><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/twitter/twitter.png" class="rounded mr-3" width="56" height="56" alt="twitter">
-</a> &nbsp; [Twitter](https://github.com/topics/twitter) - Twitter is an online news and social networking service where users post and interact with messages, known as “Tweets”.
+</a> &nbsp; [X / Twitter](https://github.com/topics/twitter) - X (Twitter) is an online news and social networking service where users post and interact with messages, known as “Tweets”.
 
 <a href="https://github.com/topics/typescript"><kbd><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" class="rounded mr-3" width="56" height="56" alt="typescript">
- </a> &nbsp; [TypeScript](https://github.com/topics/typescript) - TypeScript is a typed superset of JavaScript that compiles to plain JavaScript.
+</a> &nbsp; [TypeScript](https://github.com/topics/typescript) - TypeScript is a typed superset of JavaScript that compiles to plain JavaScript.
 
 <a href="https://github.com/topics/ubuntu"><kbd><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/ubuntu/ubuntu.png" class="rounded mr-3" width="56" height="56" alt="ubuntu">
- </a> &nbsp; [Ubuntu](https://github.com/topics/ubuntu) - Ubuntu is a Linux-based operating system.
+</a> &nbsp; [Ubuntu](https://github.com/topics/ubuntu) - Ubuntu is a Linux-based operating system.
 
 <a href="https://github.com/topics/vagrant"><kbd><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vagrant/vagrant.png" class="rounded mr-3" width="56" height="56" alt="vagrant">
- </a> &nbsp; [Vagrant](https://github.com/topics/vagrant) - Vagrant is a tool for building and managing virtual machine environments.
+</a> &nbsp; [Vagrant](https://github.com/topics/vagrant) - Vagrant is a tool for building and managing virtual machine environments.
