@@ -4,7 +4,23 @@
 
 <h4 class="h4">AI related</h4>
 
-### (pending)
+<a href="https://github.com/topics/ai"><kbd><img src="https://raw.githubusercontent.com/github/explore/558a9d7bbfd1683934210d9500c1e0c8b8c50f77/topics/ai/ai.png" class="rounded mr-3" width="100" height="100" alt="ai">
+</a> &nbsp; [AI](https://github.com/topics/ai) - The branch of computer science dealing with the reproduction, or mimicking of human-level intelligence, self-awareness, knowledge, conscience, and thought in computer programs.
+
+
+#### (pending)
+
+
+<hr>
+
+<h4 class="h4">P2P related</h4>
+
+<a href="https://github.com/topics/p2p"><kbd width="64" height="64" alt="3D"> <br><br>&nbsp;&nbsp;&nbsp; # &nbsp;&nbsp;&nbsp;<br><br> </kbd>
+</a> &nbsp; [P2P](https://github.com/topics/ai) - Peer-to-Peer (P2P) applications share resources and communicate in a decentralized or distributed architecture. Often application nodes communicate directly with each other or cooperate to do work which benefits other nodes or the overall P2P system. In a pure P2P system, there is no distinction between client and server.
+
+
+#### (pending)
+
 
 <hr>
 
